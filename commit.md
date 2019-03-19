@@ -1,1 +1,1 @@
-10 Vuex apis updated on 3/13/2019
+9 Vuex apis updated on 3/19/2019
